@@ -1,9 +1,4 @@
 
-## Apêndice
-
-Coloque qualquer informação adicional aqui
-
-
 ## 🚀 Sobre mim
 Eu sou um Desenvolvedor Web
 
