@@ -3,7 +3,7 @@
 
 - 🎓 I'm studying T.I. at E.E. Prof. José Mesquita de Carvalho.
 
-- 📚 I'm taking the Front-End (Favela Ware) cousut.
+- 📚 I'm taking the Front-End (Favela Ware) course.
 
 - 🚀 Curious facts about me: I love listening to music and doing sports
 
