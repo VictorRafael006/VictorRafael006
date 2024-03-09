@@ -1,13 +1,12 @@
 <!-- Presentation -->
 <h1 align= left>Hi guys <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, I'm Victor 💯✨</h1>
 
-- 🎓 I'm studying Computer Science at UNA University.
+- 🎓 I'm studying T.I. at E.E. Prof. José Mesquita de Carvalho.
 
-- 📚 I'm taking the Full Stack Java (EBAC) course.
-
-- 👨‍🏫 I participated as an instructor in the FavelaWare Project, an initiative aimed at training young programmers aged 15 to 22 years.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Click Here</a>
+- 📚 I'm taking the Front-End (Favela Ware) cousut.
 
 - 🚀 Curious facts about me: I love listening to music and watching films.
+  
 - 💼 I work at Cidade Administrativa in the State General Ombudsman's Office. <a href="https://www.ouvidoriageral.mg.gov.br/" target="_blank"> Click here</a>.
 
 - 📊 I'm very communicative; I have ease in learning new things. I love solving problems and I work very well in groups.
