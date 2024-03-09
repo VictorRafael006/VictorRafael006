@@ -1,5 +1,4 @@
 <!-- Presentation -->
-<img align="right" height="580cm" src="https://raw.githubusercontent.com/gist/LucelhoSilva/fe88672db1688c86ad29b8e32f22189e/raw/a49244340686709706b5adda959153c96550fa89/githubcard.svg"/>
 <h1 align= left>Hi guys <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, I'm Victor 💯✨</h1>
 
 - 🎓 I'm studying Computer Science at UNA University.
