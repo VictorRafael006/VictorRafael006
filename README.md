@@ -27,9 +27,9 @@
 <!-- Analitycs -->
 <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
 <div align="left">
-   <a href="https://github.com/lucelhocristiano">
-   <img height="180rem" src="https://github-readme-stats-lucelhosilva.vercel.app/api?username=lucelhosilva&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="lucelho github stats"/>    
-   <img height="180rem" src="https://github-readme-stats-lucelhosilva.vercel.app/api/top-langs/?username=lucelhosilva&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="lucelho github stats"/>   
+   <a href="https://github.com/VictorRafael006">
+   <img height="180rem" src="https://github-readme-stats-VictorRafael006.vercel.app/api?username=VictorRafael006&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Victor github stats"/>    
+   <img height="180rem" src="https://github-readme-stats-VictorRafael006.vercel.app/api/top-langs/?username=VictoarRafael006&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="Victor github stats"/>   
 </div>
      
 <br>
