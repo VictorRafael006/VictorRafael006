@@ -5,11 +5,9 @@
 
 - 📚 I'm taking the Front-End (Favela Ware) cousut.
 
-- 🚀 Curious facts about me: I love listening to music and watching films.
-  
-- 💼 I work at Cidade Administrativa in the State General Ombudsman's Office. <a href="https://www.ouvidoriageral.mg.gov.br/" target="_blank"> Click here</a>.
+- 🚀 Curious facts about me: I love listening to music and doing sports
 
-- 📊 I'm very communicative; I have ease in learning new things. I love solving problems and I work very well in groups.
+- 📊 I have ease in learning new things. I love solving problems and I work very well in groups.
 
 <br><br>
 
