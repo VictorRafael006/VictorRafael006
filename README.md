@@ -3,7 +3,7 @@
 
 - 🎓 I'm studying T.I. at E. E. Prof. José Mesquita de Carvalho.
 
-- 📚 I'm taking the Front-End (Favela Ware) course.
+- 📚 I'm taking the Front-End (Favela Ware) course.<a href="https://favelaware.animahub.com.br/sobre" target="blank">Clique aqui</a>
 
 - 🚀 Curious facts about me: I love listening to music and doing sports
 
@@ -21,7 +21,13 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
      
 <br>
-<!-- citation -->
+<!-- Analitycs -->
+<h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
+<div align="left">
+   <a href="https://github.com/xvzgabi">
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=xvzgabi&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="lucelho github stats"/>    
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvzgabi&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="Gabi github stats"/>   
+</div>
 
 #### _By Chorão (Charlie Brown Jr.): "Mas para quem tem o pensamento forte o impossivel é so questão de opinião"_ <img height="25px" src="https://em-content.zobj.net/source/microsoft-teams/363/thinking-face_1f914.png">
 
